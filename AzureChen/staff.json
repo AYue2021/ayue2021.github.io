@@ -1,13 +1,14 @@
 {
   "staff":"offline",
   "list":[
-    "spongeforge",
     "spongevanilla",
     "spigot"
   ],
   "name":[
-    "SpongeForge",
     "SpongeVanilla",
     "Spigot"
+  ],
+  "forgemods":[
+    {"type":"spongeforge","name":"SpongeForge"},
   ]
 }
