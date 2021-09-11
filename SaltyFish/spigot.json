@@ -1,0 +1,15 @@
+{
+    "spigot":[
+
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.8.8.jar","version":"1.8.8","filename":"spigot-1.8.8.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.9.4.jar","version":"1.9.4","filename":"spigot-1.9.4.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.10.2.jar","version":"1.10.2","filename":"spigot-1.10.2.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.11.2.jar","version":"1.11.2","filename":"spigot-1.11.2.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.12.2.jar","version":"1.12.2","filename":"spigot-1.12.2.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.13.2.jar","version":"1.13.2","filename":"spigot-1.13.2.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.14.4.jar","version":"1.14.4","filename":"spigot-1.14.4.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.15.2.jar","version":"1.15.2","filename":"spigot-1.15.2.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.16.5.jar","version":"1.16.5","filename":"spigot-1.16.5.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.17.1.jar","version":"1.17.1","filename":"spigot-1.17.1.jar"}
+    ]
+}

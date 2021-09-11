@@ -1,0 +1,8 @@
+{
+    "arclight":[
+        {"url":"https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.15-1.0.6.jar","version":"1.15.2","filename":"arclight-forge-1.15-1.0.6.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.15-1.0.19.jar","version":"1.15.2","filename":"arclight-forge-1.15-1.0.19.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.16.5-1.0.20.jar","version":"1.16.5","filename":"arclight-forge-1.16.5-1.0.20.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.17.1-1.0.0-SNAPSHOT.jar","version":"1.17.1","filename":"arclight-forge-1.17.1-1.0.0-SNAPSHOT.jar"}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "mohist":[
+        {"url":"https://mcmirrors.srv.saltyfish.work/Mohist/mohist-1.7.10-40-server.jar","version":"1.7.10","filename":"mohist-1.7.10-40-server.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Mohist/mohist-1.12.2-247-server.jar","version":"1.12.2","filename":"mohist-1.12.2-247-server.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Mohist/mohist-1.16.5-749-server.jar","version":"1.16.5","filename":"mohist-1.16.5-749-server.jar"}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "spongevanilla":[
+        {"url":"https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.8.9-4.2.0-BETA-352.jar","version":"1.8.9","filename":"spongevanilla-1.8.9-4.2.0-BETA-352.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.10.2-5.2.0-BETA-403.jar","version":"1.10.2","filename":"spongevanilla-1.10.2-5.2.0-BETA-403.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.11.2-6.1.0-BETA-27.jar","version":"1.11.2","filename":"spongevanilla-1.11.2-6.1.0-BETA-27.jar"},
+        {"url":"https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.12.2-7.3.0.jar","version":"1.12.2","filename":"spongevanilla-1.12.2-7.3.0.jar"}
+    ]
+}
