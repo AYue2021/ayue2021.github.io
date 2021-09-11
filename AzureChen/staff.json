@@ -4,7 +4,10 @@
     "spongeforge",
     "spongevanilla",
     "spigot"
-  
+  ],
+  "name":[
+    "SpongeForge",
+    "SpongeVanilla",
+    "Spigot"
   ]
-
 }
