@@ -9,6 +9,6 @@
     "Spigot"
   ],
   "forgemods":[
-    {"type":"spongeforge","name":"SpongeForge"},
+    {"type":"spongeforge","name":"SpongeForge"}
   ]
 }
