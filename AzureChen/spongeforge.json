@@ -1,0 +1,9 @@
+{
+    "spongeforge":[
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongeforge-1.10.2.jar","version":"1.10.2","filename":"spongeforge-1.10.2.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongeforge-1.11.2.jar","version":"1.11.2","filename":"spongeforge-1.11.2.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongeforge-1.12.2-7.3.0.jar","version":"1.12.2","filename":"spongeforge-1.12.2-7.3.0.ja"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongeforge-1.12.2-7.3.1-RC4082.jar","version":"1.12.2","filename":"spongeforge-1.12.2-7.3.1-RC4082.jar"}
+
+    ]
+}

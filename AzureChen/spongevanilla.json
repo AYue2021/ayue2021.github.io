@@ -1,0 +1,11 @@
+{
+    "spongevanlila":[
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongevanilla-1.8.jar","version":"1.8","filename":"spongevanilla-1.8.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongevanilla-1.8.9.jar","version":"1.8.9","filename":"spongevanilla-1.8.9.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongevanilla-1.10.2.jar","version":"1.10.2","filename":"spongevanilla-1.10.2.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongevanilla-1.11.2.jar","version":"1.11.2","filename":"spongevanilla-1.11.2.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongevanilla-1.12.2-7.3.0.jar","version":"1.12.2","filename":"spongevanilla-1.12.2-7.3.0.jar"},
+        {"url":"https://mirror.azurehanchen.top/Sponge/spongevanilla-1.12.2-7.3.1-RC391.jar","version":"1.12.2","filename":"spongevanilla-1.12.2-7.3.1-RC391.jar"}
+        
+    ]
+}
