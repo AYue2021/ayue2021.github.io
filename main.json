@@ -1,9 +1,10 @@
 {
   "staff":"online",
-  "listDL":[
-    "AzureChen",
+  "online":[
     "SaltyFish",
     "Serverjars"
-  
+  ],
+  "offline":[
+    "AzureChen"
   ]
 }
